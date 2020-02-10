@@ -7,4 +7,4 @@ def mergeDict():
      z = dict(list(x.items()) + list(y.items()))
      print(z)
 
-mergeDict()пш
+mergeDict()
